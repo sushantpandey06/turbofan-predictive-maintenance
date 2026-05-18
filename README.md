@@ -355,9 +355,7 @@ This project demonstrates:
 
 # 🌐 Streamlit App
 
-
-
-https://your-streamlit-app-url.streamlit.app
+https://turbofan-predictive-maintenance-jcbxyf2thw86qvrdqbcczt.streamlit.app/
 
 ---
 
