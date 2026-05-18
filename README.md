@@ -361,7 +361,7 @@ https://turbofan-predictive-maintenance-jcbxyf2thw86qvrdqbcczt.streamlit.app/
 
 # 🔗 GitHub Repository
 
-https://github.com/your-username/your-repository-name
+https://github.com/sushantpandey06/turbofan-predictive-maintenance
 
 ---
 
