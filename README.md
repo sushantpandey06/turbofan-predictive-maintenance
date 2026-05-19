@@ -4,6 +4,8 @@ Predicts whether a turbofan engine will fail within the next 30 cycles using sen
 
 Dataset: NASA C-MAPSS FD001 — 100 engines, 21 sensors, each engine run until failure.
 
+Dataset link - https://drive.google.com/drive/folders/1-PSZjjly7cU5FBWGjEEA5FmUpQJ52YeL?usp=sharing
+
 ## What I did
 
 - Removed 10 sensors that had near-zero variance (basically constant readings)
